@@ -9,7 +9,7 @@ It consolidates multiple contact records (emails & phone numbers) into a **singl
 
 The API is **hosted on Render** and can be accessed at:
 
-🔗 **Endpoint**: []()
+🔗 **Endpoint**: [https://bitespeed-backend-identityreconciliation.onrender.com/identify](https://bitespeed-backend-identityreconciliation.onrender.com/identify)
 
 ---
 
@@ -19,7 +19,7 @@ The API is **hosted on Render** and can be accessed at:
 2. Select **GET** method.
 3. Paste the hosted API URL:  
    ```
-   link
+   https://bitespeed-backend-identityreconciliation.onrender.com/identify
    ```
 4. Go to the **Body** section, select **raw**, and choose **JSON** format.
 5. Enter the following JSON request body:
