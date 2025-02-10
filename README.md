@@ -99,7 +99,7 @@ VALUES
 
 ## 🏆 **Author**
 **Aditya Babu Prajapati**  
-📧 Email: [your-email@example.com](adityababuprajapati@gmail.com)  
+📧 Email: [adityababuprajapati@gmail.com](adityababuprajapati@gmail.com)  
 🔗 GitHub: [adityaprajapati10](https://github.com/adityaprajapati10)  
 
 ---
