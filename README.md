@@ -51,24 +51,6 @@ The API is **hosted on Render** and can be accessed at:
 
 ---
 
-
-
-## 🌟 **Features**
-✅ **REST API with Express.js**  
-✅ **MySQL Database for Contact Storage**  
-✅ **Hosted on Render**  
-
----
-
-## 📝 **Task Requirements Completed**
-✔️ **Published on GitHub**  
-✔️ **Small commits with insightful messages**  
-✔️ **`/identify` endpoint exposed**  
-✔️ **API hosted online**  
-✔️ **Uses JSON Body for requests**
-
----
-
 ## 📂 **Database Setup (MySQL on AWS RDS)**
 
 To set up the database, run the following SQL commands:
@@ -98,6 +80,22 @@ VALUES
 (11, '919191', 'george@hillvalley.edu', NULL, 'primary', '2023-04-11 00:00:00.374', '2023-04-11 00:00:00.374', NULL),
 (27, '717171', 'biffsucks@hillvalley.edu', 11, 'secondary', '2023-04-21 05:30:00.11', '2023-04-28 06:40:00.23', NULL);
 ```
+
+## 🌟 **Features**
+✅ **REST API with Express.js**  
+✅ **MySQL Database for Contact Storage**  
+✅ **Hosted on Render**  
+
+---
+
+## 📝 **Task Requirements Completed**
+✔️ **Published on GitHub**  
+✔️ **Small commits with insightful messages**  
+✔️ **`/identify` endpoint exposed**  
+✔️ **API hosted online**  
+✔️ **Uses JSON Body for requests**
+
+---
 
 ## 🏆 **Author**
 **Aditya Babu Prajapati**  
